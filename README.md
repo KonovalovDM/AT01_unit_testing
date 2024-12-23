@@ -1,5 +1,5 @@
-# AT01_autotesting
- Introdaction_to_automated_testing
+# AT01_unit_testing
+ Introdaction_to_unit_testing
 
 __Приобретение навыков модульного тестирования - Unit Testing__
 
